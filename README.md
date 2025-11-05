@@ -15,7 +15,8 @@ Supported Video Format:DAT/MPEG/MPE/MPG/TS/TP/VOB/ISO/AVI/MP4/MOV/3GP/FLV/
 MKV/M2TS/MTS/M4V/WMV/ASF/RM/RMVB
 Supported Audio Format: DD/DD+/DTS/MP2/MP3/WMA/WAV/OGG/OGA/FLAC/ALAC/APE/AAC
 ```
-Istall LIBREELEC Just enough OS for KODI
+Install LIBREELEC Just enough OS for KODI
+https://forum.libreelec.tv/thread/23456-legacy-v9-2-lts-builds-for-amlogic-s805-s8x2-s905-s912-and-all-wetek-boxes/
 https://github.com/dtechsrv/LibreELEC-AML
 https://libreelec.dtech.hu/
 https://libreelec.dtech.hu/images/3rdParty/
